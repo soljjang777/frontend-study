@@ -1,0 +1,11 @@
+.blank {
+    height: 1500px;
+    border: 3px dashed red;
+    margin-top: 600px;
+
+}
+
+#img-sequence {
+    position: fixed;
+    top: 100px;
+}
